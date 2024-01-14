@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Blog
+permalink: /blog/
+sidebar_link: true
 ---
 # Blog Posts
 

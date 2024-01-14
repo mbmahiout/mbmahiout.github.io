@@ -1,0 +1,73 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+//$sidebar-bg-color: #yourColor; // Replace #yourColor with your desired color
+//$link-color: #yourLinkColor; // Replace #yourLinkColor with your desired color
+
+@import "hydeout";
+
+/*
+#sidebar {
+  background: url('/assets/images/neurons.webp') no-repeat center center;
+  background-size: cover; 
+}
+*/
+
+// This is the base style for all viewport sizes
+#sidebar {
+  position: fixed; // Fixed position relative to the viewport
+  top: 0; // Align to the top of the viewport
+  left: 0; // Align to the left of the viewport
+  background: url('/assets/images/neurons.webp') no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  //height: 100%;
+}
+
+// Your existing media query for larger screens, with adjustments
+@media (min-width: 49rem) {
+  body {
+    flex-direction: row;
+    min-height: 100vh;
+    // ... other styles
+  }
+
+  #sidebar {
+    width: 18rem; // or whatever width you desire for your sidebar
+    // ... other styles
+  }
+
+  .container {
+    margin-left: 18rem; // This should match the width of the sidebar to push the main content to the right
+    // ... other styles
+  }
+
+  // ... other styles
+}
+
+// Add media queries for large screens where you want the sidebar content to stay on top
+@media (min-width: 1200px) { // Adjust 1200px to the appropriate breakpoint for large screens
+  #sidebar {
+    top: 0; // Keep the sidebar content aligned to the top
+    left: 0; // Keep the sidebar content aligned to the left
+    // No changes to background, it's already set to cover the area
+  }
+}
+
+
+#sidebar .site-title {
+  font-family: 'Helvetica', sans-serif; 
+  color: #ffffff;
+  font-size: 1.5rem; 
+  font-weight: normal; 
+  margin-bottom: 0.25rem; 
+  margin-top: 0;
+  position: relative;
+}
+
+.home #sidebar .site-title {
+  font-size: 1.5rem;
+}
+
+
