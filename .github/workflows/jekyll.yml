@@ -3,22 +3,16 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Set this to your default branch
+      - main
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
 
-    - name: Build Jekyll site
+    - name: Build and publish
       uses: helaili/jekyll-action@2.0.4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.JEKYLL_PAT }}
-        publish_dir: ./_site  # Directory where Jekyll builds the site
