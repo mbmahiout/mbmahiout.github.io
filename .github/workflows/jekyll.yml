@@ -15,7 +15,7 @@ jobs:
     - name: Build Jekyll site
       uses: helaili/jekyll-action@2.0.4
       with:
-        token: ${{ secrets.JEKYLL_PAT }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
