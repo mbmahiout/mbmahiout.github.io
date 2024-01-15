@@ -15,10 +15,10 @@ jobs:
     - name: Build Jekyll site
       uses: helaili/jekyll-action@2.0.4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.JEKYLL_PAT }}
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.JEKYLL_PAT }}
         publish_dir: ./_site  # Directory where Jekyll builds the site
