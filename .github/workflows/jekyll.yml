@@ -13,7 +13,7 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.7'  # Adjust the Ruby version as needed for your Jekyll site
+        ruby-version: '3.0.6'  # Adjust the Ruby version as needed for your Jekyll site
 
     - name: Build and publish
       uses: peaceiris/actions-gh-pages@v3
