@@ -432,6 +432,6 @@ button.disqus-load { margin-top: 1em; }
   #sidebar { width: 18rem; }
   .container { margin-left: 18rem; } }
 @media (min-width: 1200px) { #sidebar { top: 0; left: 0; } }
-#sidebar .site-title { font-family: 'Helvetica', sans-serif; color: yellow; font-size: 1.5rem; font-weight: normal; margin-bottom: 0.25rem; margin-top: 0; position: relative; }
+#sidebar .site-title { font-family: 'Helvetica', sans-serif; color: white; font-size: 1.5rem; font-weight: normal; margin-bottom: 0.25rem; margin-top: 0; position: relative; }
 
 .home #sidebar .site-title { font-size: 1.5rem; }
