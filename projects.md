@@ -3,6 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 sidebar_link: true
+sidebar_sort_order: 3
 ---
-
-This is where I'll post some projects
+Nothing here yet:(
