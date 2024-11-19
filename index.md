@@ -10,8 +10,8 @@ sidebar_sort_order: 1
 
 # About
 As an analyst in the actuarial function of an insurance company, my day-to-day work consists of coding, statistics, and data analysis.
-In broad strokes, my scientific interests are centered around brains, physics, and machine learning. 
-
+My scientific interests are centered around brains, physics, and machine learning.
+ 
 # Contact
 **E-mail:** marius.b.mahiout@gmail.com
 
