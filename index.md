@@ -14,7 +14,7 @@ As an analyst in the actuarial function of an insurance company, my day-to-day w
 
 My academic interests are centered around statistics, machine learning and neuroscience. For the past few years I've also had a growing interest in actuarial science and quantitative finance.
 
-For diversion, I enjoy chess and Brazilian jiu-jitsu.
+Outside of work and academic pursuits, I enjoy playing chess and practicing Brazilian jiu-jitsu.
 
 # Contact
 **E-mail:** marius.b.mahiout@gmail.com
