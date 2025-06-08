@@ -11,14 +11,15 @@ sidebar_sort_order: 1
 
 # About
 As an analyst in the actuarial function of an insurance company, my day-to-day work consists of coding, statistics, and data analysis.
-My academic interests are centered around statistics, machine learning and neuroscience. Additionally, for the past few years I've had a growing interest in actuarial science and quantitative finance.
+My academic interests are centered around statistics, machine learning and neuroscience. For the past few years I've also had a growing interest in actuarial science and quantitative finance.
 
 # Contact
 **E-mail:** marius.b.mahiout@gmail.com
 
-**LinkedIn:** [marius-mahiout](https://www.linkedin.com/in/marius-mahiout-424aa5154/)
+**LinkedIn:** [Marius Mahiout](https://www.linkedin.com/in/marius-mahiout-424aa5154/)
 
-**GitHub:** [marius-mahiout](https://github.com/mbmahiout) Note: this is my personal GitHub account. I am not at liberty to share any code or data from my professional work.
+**GitHub:** [mbmahiout](https://github.com/mbmahiout) 
+Note: this is my personal GitHub account. I am not at liberty to share any code or data from my professional work.
 
 # Education
 - **2019 - 2021:** Norwegian University of Science and Technology<br />MS, Neuroscience
