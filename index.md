@@ -15,7 +15,10 @@ My academic interests are centered around statistics, machine learning and neuro
 
 # Contact
 **E-mail:** marius.b.mahiout@gmail.com
+
 **LinkedIn:** [marius-mahiout](https://www.linkedin.com/in/marius-mahiout-424aa5154/)
+
+**GitHub:** [marius-mahiout](https://github.com/mbmahiout) Note: this is my personal GitHub account. I am not at liberty to share any code or data from my professional work.
 
 # Education
 - **2019 - 2021:** Norwegian University of Science and Technology<br />MS, Neuroscience
