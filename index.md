@@ -11,7 +11,10 @@ sidebar_sort_order: 1
 
 # About
 As an analyst in the actuarial function of an insurance company, my day-to-day work consists of coding, statistics, and data analysis.
+
 My academic interests are centered around statistics, machine learning and neuroscience. For the past few years I've also had a growing interest in actuarial science and quantitative finance.
+
+For diversion, I really enjoy chess and Brazilian jiu-jitsu and, like most Norwegians, I love hiking in the mountains.
 
 # Contact
 **E-mail:** marius.b.mahiout@gmail.com
