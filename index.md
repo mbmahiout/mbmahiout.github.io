@@ -10,9 +10,9 @@ sidebar_sort_order: 1
 <meta name="google-site-verification" content="J34A8ynqKOwtb7Hhnhttw2B-qwIw0nVt27pZF5OwIsY" />
 
 # About
-As an analyst in the actuarial function of an insurance company, my day-to-day work consists of coding, statistics, and data analysis.
+As an analyst in the actuarial function of Gjensidige Forsikring, my day-to-day work consists of coding, statistics, and data analysis.
 
-My academic interests are centered around statistics, machine learning and neuroscience. For the past few years I've also had a growing interest in actuarial science and quantitative finance.
+My academic interests are centered around statistics, machine learning and neuroscience. Through my work for the past few years I've also had a growing interest in actuarial science and quantitative finance.
 
 Outside of work and academic pursuits, I enjoy playing chess and practicing Brazilian jiu-jitsu.
 
